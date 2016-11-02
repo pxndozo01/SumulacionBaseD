@@ -1,0 +1,27 @@
+C:\Users\Escuela\AppData\Local\Temporary Projects\ProgramaEntregaVU2\bin\Debug\ProgramaEntregaVU2.exe.config
+C:\Users\Escuela\AppData\Local\Temporary Projects\ProgramaEntregaVU2\bin\Debug\ProgramaEntregaVU2.exe
+C:\Users\Escuela\AppData\Local\Temporary Projects\ProgramaEntregaVU2\bin\Debug\ProgramaEntregaVU2.pdb
+C:\Users\Escuela\AppData\Local\Temporary Projects\ProgramaEntregaVU2\bin\Debug\ProgramaEntregaVU2.xml
+C:\Users\Escuela\AppData\Local\Temporary Projects\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.frmPrincipal.resources
+C:\Users\Escuela\AppData\Local\Temporary Projects\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.Resources.resources
+C:\Users\Escuela\AppData\Local\Temporary Projects\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.vbproj.GenerateResource.Cache
+C:\Users\Escuela\AppData\Local\Temporary Projects\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.exe
+C:\Users\Escuela\AppData\Local\Temporary Projects\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.xml
+C:\Users\Escuela\AppData\Local\Temporary Projects\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.pdb
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\bin\Debug\ProgramaEntregaVU2.exe.config
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.exe
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.xml
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.pdb
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\bin\Debug\ProgramaEntregaVU2.exe
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\bin\Debug\ProgramaEntregaVU2.pdb
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\bin\Debug\ProgramaEntregaVU2.xml
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.frmPrincipal.resources
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.Resources.resources
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.vbproj.GenerateResource.Cache
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.Form2.resources
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.Form3.resources
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.Form4.resources
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.Form5.resources
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.Form6.resources
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.Form7.resources
+C:\Users\Escuela\Documents\Visual Studio 2012\Projects\Examen\ProgramaEntregaVU2\ProgramaEntregaVU2\obj\Debug\ProgramaEntregaVU2.Form8.resources
